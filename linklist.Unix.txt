@@ -1,0 +1,18 @@
+# vim
+# .vim  ${HOME}/.vim
+
+# zsh
+.zshrc  ${HOME}/.zshrc
+.zprofile ${HOME}/.zprofile
+.zshenv ${HOME}/.zshenv
+.p10k.zsh ${HOME}/.p10k.zsh
+
+# bash
+.bashrc ${HOME}/.bashrc
+.bash_logout ${HOME}/.bash_logout
+
+# git
+.gitconfig ${HOME}/.gitconfig
+
+# 
+.profile ${HOME}/.profile

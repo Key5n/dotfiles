@@ -1,0 +1,7 @@
+[user]
+	email = k.nogami.472@stn.nitech.ac.jp
+	name = Key5n
+[init]
+	defaultBranch = main
+[core]
+	editor = vim
